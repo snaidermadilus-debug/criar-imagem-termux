@@ -11,8 +11,9 @@ Script em Python para Android (Termux) que:
 ---
 
 
-Comando único Para qualquer pessoa baixar e executar tudo de uma vez no Termux:
-                👇
+Comando único Para qualquer pessoa baixar e executar tudo de uma vez no Termux
+           👇
+
 git clone git@github.com:snaidermadilus-debug/criar-imagem-termux.git && \
 cd criar-imagem-termux && \
 pkg update -y && pkg install python termux-api -y && \
